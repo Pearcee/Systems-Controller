@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .streamlit # Streamlit project files
+.streamlit/
 venv/ # venv
