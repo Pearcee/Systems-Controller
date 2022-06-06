@@ -130,3 +130,4 @@ dmypy.json
 .streamlit # Streamlit project files
 .streamlit/
 venv/ # venv
+.DS_Store
